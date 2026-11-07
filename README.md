@@ -115,18 +115,14 @@ I build the safety net under FinTech platforms: test architectures, CI/CD pipeli
 ### `/beyond-the-terminal`
 
 🦁 **Leo Club leadership**, from Interact President at Richmond College to **Multiple District Assistant Treasurer** (Leo MD 306, Sri Lanka & Maldives) and **District Membership Chairperson** (306 D8).
+
 🎥 **Richmond Live**: sports videography and live production since 2019.
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/Peenaka">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Peenaka&show_icons=true&hide_border=true&bg_color=0B0B0C&title_color=F5A524&icon_color=F5A524&text_color=C9C5BA&ring_color=F5A524&border_radius=16" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/Peenaka">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peenaka&layout=compact&hide_border=true&bg_color=0B0B0C&title_color=F5A524&text_color=C9C5BA&border_radius=16" alt="Top languages"/>
-</a>
+
 
 <br/><br/>
 
