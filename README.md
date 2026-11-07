@@ -114,7 +114,7 @@ I build the safety net under FinTech platforms: test architectures, CI/CD pipeli
 
 ### `/beyond-the-terminal`
 
-🦁 **Leo Club leadership**, from Interact President at Richmond College to **Multiple District Assistant Treasurer** (Leo MD 306, Sri Lanka & Maldives) and **District Membership Chairperson** (306 D8).
+🦁 **Leo Organization**, from Club Secretary at Leo Club of Southern Metro to **Multiple District Assistant Treasurer** (Leo MD 306, Sri Lanka & Maldives) and **District Secretary** (306 D8).
 
 🎥 **Richmond Live**: sports videography and live production since 2019.
 
